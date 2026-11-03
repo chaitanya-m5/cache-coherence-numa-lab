@@ -1,0 +1,5 @@
+false_sharing
+numa_sweep
+compare_numa
+*.o
+__pycache__/
